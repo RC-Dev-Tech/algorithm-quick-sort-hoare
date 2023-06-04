@@ -50,7 +50,7 @@ Hoare partition scheme在某些情況下比Lomuto partition scheme的效率更�
 ---
 
 ## 實作範例:
-- [Example](https://github.com/RC-Dev-Tech/algorithm-quick-sort-hoare/blob/main/C%2B%2B/main.cpp) - Lomuto Quick Sort (C++)
+- [Example](https://github.com/RC-Dev-Tech/algorithm-quick-sort-hoare/blob/main/C%2B%2B/main.cpp) - Hoare Quick Sort (C++)
 
 ---
 
