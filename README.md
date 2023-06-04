@@ -1,4 +1,4 @@
-# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Quick Sort（Hoare partition scheme）<br> 快速排序（霍爾分區方案）
+# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 快速排序 - 霍爾分區方案（Hoare partition scheme）
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
 ---
