@@ -42,8 +42,8 @@ Hoare partition scheme在某些情況下比Lomuto partition scheme的效率更�
 ---
 
 ## 示意圖:
-<img src="https://drive.google.com/uc?id=1JJv1ARTBczJaDoBM2UOY9SmBv7Ups8Jtt" height="70%" width="70%"/>
-<img src="https://drive.google.com/uc?id=1BF_4bE_VAByMQZvCP_GqW6mYCzhOdHMjj" height="70%" width="70%"/>
+<img src="https://drive.google.com/uc?id=1mEKDMUThZXEeubrv3Qe-fiyYygi2Ul6B" height="70%" width="70%"/>
+<img src="https://drive.google.com/uc?id=1H2W-hjHF1VoF_Yxm1zRAWITgmlEUrG-6" height="70%" width="70%"/>
 
 > 圖片來源：[iThome鐵人賽(Frank) - 演算法 快速排序法 Quick Sort](https://ithelp.ithome.com.tw/articles/10278644)
 
